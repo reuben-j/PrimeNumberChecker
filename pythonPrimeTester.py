@@ -13,3 +13,6 @@ if primeChecker(num) != True:
     print(str(num) + " is not prime :(")
 else:
     print(str(num) + " is prime!")
+    
+print("nice") 
+ 
