@@ -15,6 +15,6 @@ public class math {
         return true;
     }
     public static void main(String[] args) {
-        System.out.println(isPrime(23));
+        System.out.println(isPrime(22));
     }
 }
